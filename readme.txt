@@ -3,4 +3,4 @@ Git is free software.
 creating a new branch is quick and simple.
 hello
 world
-test fast-forward, strange.
+test fast-forward, strange fix bug.

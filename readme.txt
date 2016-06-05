@@ -4,3 +4,4 @@ creating a new branch is quick and simple.
 hello
 world
 test fast-forward, strange fix bug.
+color

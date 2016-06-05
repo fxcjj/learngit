@@ -1,0 +1,15 @@
+
+
+
+git reset --hard HEAD^
+Note: 回退上一个版本，HEAD^^表示上上个版本，HEAD~100表示前100版本。
+回退时，与当前版本一致的文件都会回退！
+
+git reset --hard <commit id>
+Note: 回到指定版本，与当前版本一致的文件都会回去！
+
+git reflog
+Note: 历史命令，能看到commmit id，不怕删除文件了，哈哈
+
+
+

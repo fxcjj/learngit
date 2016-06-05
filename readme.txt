@@ -5,3 +5,5 @@ hello
 world
 test fast-forward, strange fix bug.
 color
+bug
+
